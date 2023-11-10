@@ -1,2 +1,3 @@
-# exercicios-py
-Diversos exercícios feitos na linguagem Python para treino/aulas.
+# Exercicios Python
+
+Diversos exercícios feitos em Python para treino/aulas.
